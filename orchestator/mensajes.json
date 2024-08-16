@@ -1,0 +1,3330 @@
+[
+    {
+        "message_body": "{\"uuid\":\"76b167d4-7a15-45f7-b3f2-b368463011ce\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"bd578e93-7bb2-4709-bccd-92d7fe802666\"}",
+        "delivery_tag": 1,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "bd578e93-7bb2-4709-bccd-92d7fe802666",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"ffebe0eb-9cbb-45a5-b308-cc26194d08f8\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:42;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"4364e6a8-f65a-4173-8dd8-eda0e0d66d40\"}",
+        "delivery_tag": 1,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "4364e6a8-f65a-4173-8dd8-eda0e0d66d40",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"1cfa45b0-985d-4a43-80da-a224714a5eff\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:43;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"dbd680db-d9ae-42e2-ae34-fe137a077170\"}",
+        "delivery_tag": 2,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "dbd680db-d9ae-42e2-ae34-fe137a077170",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"2f2c62bc-b50c-4bcd-845a-34ac87064947\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"c54c2871-d101-4137-9bde-a4e6b58625c6\"}",
+        "delivery_tag": 3,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "c54c2871-d101-4137-9bde-a4e6b58625c6",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"7ffe9bb4-761d-4b60-a5df-6722e44ef337\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"e7165cac-f2a1-4f85-a8fc-e1af3b72bc80\"}",
+        "delivery_tag": 4,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "e7165cac-f2a1-4f85-a8fc-e1af3b72bc80",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"efa085f3-11ec-430b-ba5c-8284cb3eb930\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:3;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"d13c4ea0-fd58-4eba-84d7-c69205367e6c\"}",
+        "delivery_tag": 5,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "d13c4ea0-fd58-4eba-84d7-c69205367e6c",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"1937d345-cfc8-448d-a01f-cd552fc234e9\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:4;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"7f25ad9f-35e3-438a-b79d-e3d65d07d070\"}",
+        "delivery_tag": 6,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "7f25ad9f-35e3-438a-b79d-e3d65d07d070",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"15a08de7-74ab-4716-8c56-a5c8d3159c75\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:5;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"cef6c559-78bf-4a32-87f1-c66d8c39bf6b\"}",
+        "delivery_tag": 7,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "cef6c559-78bf-4a32-87f1-c66d8c39bf6b",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"3408a8ad-bf34-4055-ab21-01193c331c8a\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:6;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"817a0e3e-e109-4d2e-8fd6-d3354453faaf\"}",
+        "delivery_tag": 8,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "817a0e3e-e109-4d2e-8fd6-d3354453faaf",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"cf1cd64b-349e-47ad-872b-dea7b3436b21\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:7;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"42c8cf92-f12d-47c1-8b55-0288abc02973\"}",
+        "delivery_tag": 9,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "42c8cf92-f12d-47c1-8b55-0288abc02973",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"fe830b31-36ed-49dc-9471-5e4532c539e7\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:8;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"7b0f7a4a-e09d-4dbb-98dc-1298b778aa8e\"}",
+        "delivery_tag": 10,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "7b0f7a4a-e09d-4dbb-98dc-1298b778aa8e",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"7e5c136c-c91d-4778-a201-6a9a38599953\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:10;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"409e4502-6403-4fa6-87ab-9dacb1227d87\"}",
+        "delivery_tag": 1,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "409e4502-6403-4fa6-87ab-9dacb1227d87",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"12f65a62-afb2-4828-96bf-bcf7be92e77c\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:11;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"1676ba07-32f8-405c-bc6a-4321a4a6a9f9\"}",
+        "delivery_tag": 2,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "1676ba07-32f8-405c-bc6a-4321a4a6a9f9",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"dba7682f-7084-4913-8acc-44eabb697165\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:12;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"2d39fca6-03a8-44ed-aea1-c42f6571c210\"}",
+        "delivery_tag": 3,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "2d39fca6-03a8-44ed-aea1-c42f6571c210",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"ec5868a9-1b61-401f-b7a9-dbef3417dd46\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"1c5f8255-a2fe-4eaf-8654-fa17992cb775\"}",
+        "delivery_tag": 4,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "1c5f8255-a2fe-4eaf-8654-fa17992cb775",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"e05ca4ff-8300-4703-b78c-f6bf95d0f312\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"3ef80107-6926-429a-9875-5f1312bf5cda\"}",
+        "delivery_tag": 5,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "3ef80107-6926-429a-9875-5f1312bf5cda",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"3e6fd634-36bd-4ba1-85d0-e74180f18941\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"fd51a2b1-aea0-47c5-8c49-67336d5dba54\"}",
+        "delivery_tag": 6,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "fd51a2b1-aea0-47c5-8c49-67336d5dba54",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"a953d641-291f-4754-8591-e579a000c9d3\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"9b6bf9dd-5d9f-49fd-92ea-c85c22d904ae\"}",
+        "delivery_tag": 1,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "9b6bf9dd-5d9f-49fd-92ea-c85c22d904ae",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"760fd6e2-264b-4a25-905f-1425d506192b\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"1dda8841-9cd1-46c9-af2a-63c97fafd308\"}",
+        "delivery_tag": 2,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "1dda8841-9cd1-46c9-af2a-63c97fafd308",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"a03a5c23-0616-4bf3-b312-76cf64d21b03\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"8aadb234-a31f-4491-8ec6-f59690da6364\"}",
+        "delivery_tag": 3,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "8aadb234-a31f-4491-8ec6-f59690da6364",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"886eea77-e47a-41ec-949e-de9bfecf2508\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucCreated\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucCreated\\\":2:{s:30:\\\"\\u0000App\\\\Jobs\\\\RabbitRucCreated\\u0000ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:3;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:15:\\\"company.created\\\";}\"},\"id\":\"c0453c53-364a-4ae6-930a-f9178e6cab4b\"}",
+        "delivery_tag": 4,
+        "exchange": "",
+        "routing_key": "company.created",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "c0453c53-364a-4ae6-930a-f9178e6cab4b",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"8a64d826-2a3c-4b33-8d83-6ecfd2fdab0a\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucToQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucToQueue\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucToQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"6de2ebc5-1ede-405b-8138-934cd7ca63a7\"}",
+        "delivery_tag": 1,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "6de2ebc5-1ede-405b-8138-934cd7ca63a7",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"bd6e7ce4-fca2-4d38-811d-dd7afdb95ac4\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucToQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucToQueue\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucToQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"80c44041-fe94-4efb-b270-70480c5240c6\"}",
+        "delivery_tag": 2,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "80c44041-fe94-4efb-b270-70480c5240c6",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"774fdf33-340f-42f6-8d1d-b9b8da867ddd\",\"displayName\":\"App\\\\Jobs\\\\RabbitRucToQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitRucToQueue\",\"command\":\"O:25:\\\"App\\\\Jobs\\\\RabbitRucToQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"0c541a36-04f3-4a95-9662-87d12f9d813f\"}",
+        "delivery_tag": 3,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "0c541a36-04f3-4a95-9662-87d12f9d813f",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"85c7f7da-46ef-44c8-b661-cdbaf4363813\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"4221c512-d3e1-4aa7-bf9d-f937a7c46f6d\"}",
+        "delivery_tag": 1,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "4221c512-d3e1-4aa7-bf9d-f937a7c46f6d",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"c1b66337-174a-455a-aa44-d96be458ef68\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"7c5efe6a-9384-4887-b821-135536546783\"}",
+        "delivery_tag": 2,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "7c5efe6a-9384-4887-b821-135536546783",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"7bbd26c1-b796-4904-a5f4-f2407b9ed1a0\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"ed4ec237-2143-4c54-828d-e998869f0298\"}",
+        "delivery_tag": 3,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "ed4ec237-2143-4c54-828d-e998869f0298",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"de4e6ece-caf1-44fe-af09-a04f79ec3523\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"41638961-4aa6-465a-8716-a6645c83e62b\"}",
+        "delivery_tag": 4,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "41638961-4aa6-465a-8716-a6645c83e62b",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"d5dd7b52-6b0c-454e-a95d-2576f1e09cef\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"610550fa-bd0e-4435-99f7-9e04cbea1432\"}",
+        "delivery_tag": 5,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "610550fa-bd0e-4435-99f7-9e04cbea1432",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"999b4695-8d9f-48aa-a63f-25644d52401f\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"bff136f2-3e8c-4a9c-80c5-8ad892822a08\"}",
+        "delivery_tag": 6,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "bff136f2-3e8c-4a9c-80c5-8ad892822a08",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"057f499f-afcd-41bd-a036-dd26b1d1a79e\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"d571b4bc-da4f-4dfc-899c-ca4bb8f9b6a8\"}",
+        "delivery_tag": 7,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "d571b4bc-da4f-4dfc-899c-ca4bb8f9b6a8",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"d1e46c0f-b25d-4d83-b4fb-fa680597545e\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"c154e27f-38ad-4a26-92a5-50b236f3b738\"}",
+        "delivery_tag": 8,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "c154e27f-38ad-4a26-92a5-50b236f3b738",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"551deb31-4b6a-4213-9bf5-74871661bb61\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"1950b7b9-3d53-42a7-afc7-ebf8afd898e2\"}",
+        "delivery_tag": 9,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "1950b7b9-3d53-42a7-afc7-ebf8afd898e2",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"3f24c676-dfe2-4142-8a26-03f6e75f7d3d\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"db0edace-c8a7-4557-8d4d-5e3a7981923c\"}",
+        "delivery_tag": 10,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "db0edace-c8a7-4557-8d4d-5e3a7981923c",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"021c1866-644e-407d-b371-d04d05c16754\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"75bf8dd2-ce52-43a8-8382-023bc2981db5\"}",
+        "delivery_tag": 11,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "75bf8dd2-ce52-43a8-8382-023bc2981db5",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"2c248088-5950-453e-9dfe-ec46b4a641f3\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"224a5f5e-9961-4231-aeaa-5294281082f6\"}",
+        "delivery_tag": 12,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "224a5f5e-9961-4231-aeaa-5294281082f6",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"b4a439eb-1c9c-4b32-954d-6145bce2520c\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"0f4a1244-25cb-4960-9756-2aa03b15a60f\"}",
+        "delivery_tag": 13,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "0f4a1244-25cb-4960-9756-2aa03b15a60f",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"6d34eba8-16d7-44dc-ae18-cdbfe2e5ff20\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"d380d3fd-921e-43e5-98e6-bde00068bb6e\"}",
+        "delivery_tag": 14,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "d380d3fd-921e-43e5-98e6-bde00068bb6e",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"40f79d67-af8d-4b44-962e-95129a0a40b7\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"834a5a73-e274-4370-bdc2-635f447996e1\"}",
+        "delivery_tag": 15,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "834a5a73-e274-4370-bdc2-635f447996e1",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"d42e7481-4eba-4e53-b976-42c61b1d1767\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"2117cc1c-4f8e-41c9-a97c-34dbc119f965\"}",
+        "delivery_tag": 16,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "2117cc1c-4f8e-41c9-a97c-34dbc119f965",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"3c46e175-5b4b-4eac-a34b-765fb6794726\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"ce436b78-4a3d-45d5-abbf-19907515aa52\"}",
+        "delivery_tag": 17,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "ce436b78-4a3d-45d5-abbf-19907515aa52",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"95b4e2e9-afd6-43e1-93f1-52c6985d3ec9\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"34cb9271-5196-466d-886d-787dd17ce225\"}",
+        "delivery_tag": 18,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "34cb9271-5196-466d-886d-787dd17ce225",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"2b484eab-b3bc-46ef-9a54-c0fc63cd6629\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"f9c2f53c-0e80-4ac7-8707-d56152204b84\"}",
+        "delivery_tag": 19,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "f9c2f53c-0e80-4ac7-8707-d56152204b84",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"e55d4597-34a9-4a8d-8cd8-8f32788de973\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"f81c83ef-296e-40e8-925c-52a7690f541b\"}",
+        "delivery_tag": 20,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "f81c83ef-296e-40e8-925c-52a7690f541b",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"06d6936e-b630-4602-8c33-7888fa88289c\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"b035e83f-ec06-40cc-affa-e7780124c7d7\"}",
+        "delivery_tag": 21,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "b035e83f-ec06-40cc-affa-e7780124c7d7",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"6c0104ba-8116-4c41-a366-5c7bbdb86f1b\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"3848deeb-4728-4cf1-92ad-0cb98f7de447\"}",
+        "delivery_tag": 22,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "3848deeb-4728-4cf1-92ad-0cb98f7de447",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"61653aee-6bf8-4b40-9f19-02707fc707d7\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"ee0b1f2e-f77c-46e4-b1dc-6d7809c72ec6\"}",
+        "delivery_tag": 23,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "ee0b1f2e-f77c-46e4-b1dc-6d7809c72ec6",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"9315201a-adb9-4671-9cc4-98773d629af2\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"5c165d79-4b9b-41c4-8b9e-acd91a2fa5cc\"}",
+        "delivery_tag": 24,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "5c165d79-4b9b-41c4-8b9e-acd91a2fa5cc",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"73215d08-ad6d-4208-b968-4a471d08f187\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"bb762fe2-6712-487c-a5e4-5210f874446a\"}",
+        "delivery_tag": 25,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "bb762fe2-6712-487c-a5e4-5210f874446a",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"1b5e0c3e-b602-4786-906c-5ab2e6477af4\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"078cd801-93c3-47c9-8eaf-c67dd1a7f308\"}",
+        "delivery_tag": 26,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "078cd801-93c3-47c9-8eaf-c67dd1a7f308",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"af77f5f6-9f2e-49ae-828f-fb497f3d0a0a\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"1b6abae2-a659-478d-95ce-9d8207296737\"}",
+        "delivery_tag": 27,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "1b6abae2-a659-478d-95ce-9d8207296737",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"edac738d-335d-4d4a-aead-08771b036ee4\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"d49e9f32-dc0c-491b-805b-1ae42263feae\"}",
+        "delivery_tag": 28,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "d49e9f32-dc0c-491b-805b-1ae42263feae",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"659b7157-6d76-4b84-b61f-c169901989ef\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"0dfe5ea4-79dd-4346-a72a-ba45621a368a\"}",
+        "delivery_tag": 29,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "0dfe5ea4-79dd-4346-a72a-ba45621a368a",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"ece4e6d7-6181-4018-bc29-76e60fbd627c\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"7db2b39f-0030-42ab-badb-3defdcf386cd\"}",
+        "delivery_tag": 30,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "7db2b39f-0030-42ab-badb-3defdcf386cd",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"c87c6145-fbaa-44c8-a986-76ca84bc4eaf\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"8204da5c-73dd-4258-85a5-5eb5284470e6\"}",
+        "delivery_tag": 31,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "8204da5c-73dd-4258-85a5-5eb5284470e6",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"68ac3b8c-a51c-4dbc-bf15-b82c772a4852\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"94ee2482-8bd3-4f94-99b4-2e9fbb385086\"}",
+        "delivery_tag": 32,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "94ee2482-8bd3-4f94-99b4-2e9fbb385086",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"79f55ddb-281c-41f4-8af1-8d06894aeb61\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"d901a7d8-686e-40fb-a8a9-a5ab2a33c7f1\"}",
+        "delivery_tag": 33,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "d901a7d8-686e-40fb-a8a9-a5ab2a33c7f1",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"20ca8246-7d90-4b33-9997-11d7f48fff14\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"8a6bb590-1a96-4e3c-89f2-c2dbdff9baaa\"}",
+        "delivery_tag": 34,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "8a6bb590-1a96-4e3c-89f2-c2dbdff9baaa",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"e03339d7-10a2-485a-a3f9-965bbb23d6be\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"27ab2e44-2de9-4656-9260-17ea2954c878\"}",
+        "delivery_tag": 35,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "27ab2e44-2de9-4656-9260-17ea2954c878",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"d9bfdf91-fe14-4c0e-99df-cfccf6d1d6da\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"15c35266-33e0-4a00-8673-53729a80e91c\"}",
+        "delivery_tag": 36,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "15c35266-33e0-4a00-8673-53729a80e91c",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"741f3662-5e09-4d96-9fff-9c16808a46a6\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"5eb228ed-9cbc-4a11-8172-b908febf1a40\"}",
+        "delivery_tag": 37,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "5eb228ed-9cbc-4a11-8172-b908febf1a40",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"392acada-eff2-4521-8977-86c51a46abf5\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"7ed87353-2223-417f-b4b0-26166368c608\"}",
+        "delivery_tag": 38,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "7ed87353-2223-417f-b4b0-26166368c608",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"e02ecf97-6875-49a5-b284-4d069eca43ab\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"19ab4187-919d-4320-9d24-528869b43dd3\"}",
+        "delivery_tag": 39,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "19ab4187-919d-4320-9d24-528869b43dd3",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"fca3639a-847e-46f9-a31c-4b604e62df6a\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"4c09c760-07f4-4d33-b012-9f2c65ea83cc\"}",
+        "delivery_tag": 40,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "4c09c760-07f4-4d33-b012-9f2c65ea83cc",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"6532facf-1fec-401d-8837-73c2503657b6\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"04df6174-3734-430d-a742-e66c87f5e7fa\"}",
+        "delivery_tag": 41,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "04df6174-3734-430d-a742-e66c87f5e7fa",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"e79a43fa-fc80-4a37-bd1e-58951729f6ee\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"7e4eea56-78da-4722-957f-b09ad040a8ff\"}",
+        "delivery_tag": 42,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "7e4eea56-78da-4722-957f-b09ad040a8ff",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"5dc8e3fb-3c11-40c6-9362-e92ad0496b2d\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"1c5516e1-c7c2-4f7e-ad62-36e1a4ddc712\"}",
+        "delivery_tag": 43,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "1c5516e1-c7c2-4f7e-ad62-36e1a4ddc712",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"8f2e15c1-a136-4639-b737-eaf134b08dcc\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"fd046e45-9f93-4f13-9e60-f1bf0d5a16c7\"}",
+        "delivery_tag": 44,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "fd046e45-9f93-4f13-9e60-f1bf0d5a16c7",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"f72a50d0-dbeb-4aad-86d2-68483fe14e46\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"197848fb-dba6-465f-8fe8-08bb8c8ed07a\"}",
+        "delivery_tag": 45,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "197848fb-dba6-465f-8fe8-08bb8c8ed07a",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"cd46254d-ec6b-4269-8a7e-1bf3ccb0ab56\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"e25e0df7-1ca8-4e4a-ac95-425aa8cbccbc\"}",
+        "delivery_tag": 46,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "e25e0df7-1ca8-4e4a-ac95-425aa8cbccbc",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"344ddce6-b422-486f-848e-d50c5fa79c06\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"1afe107d-102f-4850-8c8e-89363cb71d16\"}",
+        "delivery_tag": 47,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "1afe107d-102f-4850-8c8e-89363cb71d16",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"cec13608-25c1-4e7e-9a2e-1a6057acc4da\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"c22b932b-1ff9-460d-9979-a68bf912f907\"}",
+        "delivery_tag": 48,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "c22b932b-1ff9-460d-9979-a68bf912f907",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"cd5a3a17-09f0-4e59-a4b4-9a7df9d6490f\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"7b30784a-c7e3-40ea-9ffc-a2f0755c5518\"}",
+        "delivery_tag": 49,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "7b30784a-c7e3-40ea-9ffc-a2f0755c5518",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"66b8eda2-907b-4496-8168-4d5e37b52d6d\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"f61010d3-ac74-4207-9939-6b722edf1f62\"}",
+        "delivery_tag": 50,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "f61010d3-ac74-4207-9939-6b722edf1f62",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"ff0b6220-0eee-4cf1-8d96-b54588c093e9\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"00197c02-3e51-4f77-8bfe-8fa48da2ce95\"}",
+        "delivery_tag": 51,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "00197c02-3e51-4f77-8bfe-8fa48da2ce95",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"d9d280f3-0e39-472b-8c3b-9c79d7a0b6f9\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"84524b4a-9e96-44c3-9847-9ff2f4175dc4\"}",
+        "delivery_tag": 52,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "84524b4a-9e96-44c3-9847-9ff2f4175dc4",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"92e61973-230a-4f5b-9371-e685571904f1\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"d5f88198-c084-4bc2-aa5c-f7fdc071c259\"}",
+        "delivery_tag": 53,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "d5f88198-c084-4bc2-aa5c-f7fdc071c259",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"a1305a7a-031b-4d5f-a6f5-6f6d1191f486\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"702b4b1f-fd3e-4a13-968c-66700decc2a9\"}",
+        "delivery_tag": 54,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "702b4b1f-fd3e-4a13-968c-66700decc2a9",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"2b67201e-0515-429e-8c24-2980fc53cc76\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"a160b12b-208a-4cb7-b3f4-671137db3ace\"}",
+        "delivery_tag": 55,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "a160b12b-208a-4cb7-b3f4-671137db3ace",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"fa4d70aa-6399-476a-960d-c8748a4c79cd\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"60255ccb-9705-472e-8f5f-6ba5a2968527\"}",
+        "delivery_tag": 56,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "60255ccb-9705-472e-8f5f-6ba5a2968527",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"ec821a62-b8a7-4f65-a421-8bcffd5cf358\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"5dc118b4-ac42-4ff5-9014-d7cf570438a8\"}",
+        "delivery_tag": 57,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "5dc118b4-ac42-4ff5-9014-d7cf570438a8",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"1d2b9704-3a3f-42bb-9e63-4fbfcb5d65d1\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"6a165555-e1b1-4c3a-8b82-e1a3099b4ea4\"}",
+        "delivery_tag": 58,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "6a165555-e1b1-4c3a-8b82-e1a3099b4ea4",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"76f19481-3bef-416e-8e4a-70a3172ca41f\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"8f00c8c5-13b2-458e-9de9-557f95d3e29d\"}",
+        "delivery_tag": 59,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "8f00c8c5-13b2-458e-9de9-557f95d3e29d",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"fd6df368-56cc-42c6-952a-141be4d4a948\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"72a6f536-dc56-40ad-85e1-a806b0085822\"}",
+        "delivery_tag": 60,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "72a6f536-dc56-40ad-85e1-a806b0085822",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"0cea9758-0981-4001-a85a-7f8de7118e2f\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"07d09822-cc5d-4cb1-b099-2803ae7cdd51\"}",
+        "delivery_tag": 61,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "07d09822-cc5d-4cb1-b099-2803ae7cdd51",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"2dac19cd-a32e-4a1f-8130-7feecbe8bb32\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"2ae83022-7888-4d69-9e05-3188fc81ab19\"}",
+        "delivery_tag": 62,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "2ae83022-7888-4d69-9e05-3188fc81ab19",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"60b83914-587b-43e1-948a-9da3d4f1fc4e\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"766bff3a-ba40-4198-9540-8bd3975d4ca5\"}",
+        "delivery_tag": 63,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "766bff3a-ba40-4198-9540-8bd3975d4ca5",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"97e5b34f-b3dd-4e6a-928e-c29542bbe0ce\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"38e31ff3-8c8f-4426-99a5-d4f1191a4ae1\"}",
+        "delivery_tag": 64,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "38e31ff3-8c8f-4426-99a5-d4f1191a4ae1",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"db01dec3-d141-4929-abe5-af00a2de070b\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"8beda7ad-0d3a-4c99-9f06-7e3294e81e83\"}",
+        "delivery_tag": 65,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "8beda7ad-0d3a-4c99-9f06-7e3294e81e83",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"03babb8a-9130-47a6-8b44-a4558568ade9\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"816506f9-890c-45e8-abf2-0ca3646141b7\"}",
+        "delivery_tag": 66,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "816506f9-890c-45e8-abf2-0ca3646141b7",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"bf2a6cce-3bf2-4ed0-a802-c5a3d9350a23\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"8bfb25c4-4175-4a70-9917-16929241e1bc\"}",
+        "delivery_tag": 67,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "8bfb25c4-4175-4a70-9917-16929241e1bc",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"5c0b02c1-a4d0-4e13-a8db-163f22e73cb3\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"418d55e2-9f4f-405a-b341-5ffd41b4ec21\"}",
+        "delivery_tag": 68,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "418d55e2-9f4f-405a-b341-5ffd41b4ec21",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"426d5a10-20dd-481d-803a-91da431b41bf\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"764c3ee5-72e9-4f52-9cf9-8b4c7637d04d\"}",
+        "delivery_tag": 69,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "764c3ee5-72e9-4f52-9cf9-8b4c7637d04d",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"52864e9b-e48c-4cc4-bfd3-a01fdcac9e6b\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"84c3cb77-efd4-4335-a7fd-8665c8ab3d31\"}",
+        "delivery_tag": 70,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "84c3cb77-efd4-4335-a7fd-8665c8ab3d31",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"c28bf9f6-6c28-4c6d-8b06-858acb9d0405\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"3ed79dcc-57ce-4b35-aa70-23e3cd9a3173\"}",
+        "delivery_tag": 71,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "3ed79dcc-57ce-4b35-aa70-23e3cd9a3173",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"b91465c9-54fe-44f5-9e5b-e2f67d93505d\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"e4f061da-4759-4944-a9f9-cf20b2f3303a\"}",
+        "delivery_tag": 72,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "e4f061da-4759-4944-a9f9-cf20b2f3303a",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"eaa14e42-3c40-4030-af98-43f2ab3f1a60\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"b1fb7ca3-7270-44e4-bf94-92eda8cf16f3\"}",
+        "delivery_tag": 73,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "b1fb7ca3-7270-44e4-bf94-92eda8cf16f3",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"345d1bba-ded1-4568-bf3d-ef9df936c8c0\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"433a8820-70e7-4e04-bc17-b74d695eebdf\"}",
+        "delivery_tag": 74,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "433a8820-70e7-4e04-bc17-b74d695eebdf",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"e7efa07e-aa01-4575-bf88-d132ecb8307c\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"432852ac-1732-468d-84f0-005d8811c5ce\"}",
+        "delivery_tag": 75,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "432852ac-1732-468d-84f0-005d8811c5ce",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"583e58c4-4db3-4ef8-9933-60d856029788\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"3ad8d6ce-09f7-495a-8f03-e088c2c6e88d\"}",
+        "delivery_tag": 76,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "3ad8d6ce-09f7-495a-8f03-e088c2c6e88d",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"55b8798c-ddac-476b-9d60-4a389117ef3e\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"501fa0ab-5ad7-414d-9d70-ec5cc6f62d0b\"}",
+        "delivery_tag": 77,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "501fa0ab-5ad7-414d-9d70-ec5cc6f62d0b",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"37916cdc-2b44-46b8-bfcc-57e80967b745\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"83b734fb-9d6a-4470-af77-343ccdf64731\"}",
+        "delivery_tag": 78,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "83b734fb-9d6a-4470-af77-343ccdf64731",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"66095979-b3f8-4738-86e9-4ab8472a9294\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"4f3c2319-1128-4573-8ae7-a2d5d20ee8e8\"}",
+        "delivery_tag": 79,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "4f3c2319-1128-4573-8ae7-a2d5d20ee8e8",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"526ca836-a078-4b64-a9e6-364ccd41efcf\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"04e79181-672d-4e24-ab99-369bf238e10d\"}",
+        "delivery_tag": 80,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "04e79181-672d-4e24-ab99-369bf238e10d",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"0bd1447b-e6ec-4937-8e94-3c6e1cf1def4\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"d87d8520-db13-4061-8bad-523a7cc4e1c4\"}",
+        "delivery_tag": 81,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "d87d8520-db13-4061-8bad-523a7cc4e1c4",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"9ae599c9-b695-4cf8-ba3b-78dfcc734b5a\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"2023ed07-5993-4e07-a1fd-cd11f0f83e99\"}",
+        "delivery_tag": 82,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "2023ed07-5993-4e07-a1fd-cd11f0f83e99",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"631d2cc8-f6e8-42a1-916f-634a7323bb1c\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"f80fd965-f233-4bba-9451-1f6457580b73\"}",
+        "delivery_tag": 83,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "f80fd965-f233-4bba-9451-1f6457580b73",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"78b81585-9368-4337-b59d-df78178e5e6b\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"67cf48c0-5e3e-48a2-9e2b-24fc66717dc5\"}",
+        "delivery_tag": 84,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "67cf48c0-5e3e-48a2-9e2b-24fc66717dc5",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"7a85b92d-a4f1-42cc-bb27-d5244924a9dc\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"03fa6354-4be3-4fa6-ba60-12c59e43400d\"}",
+        "delivery_tag": 85,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "03fa6354-4be3-4fa6-ba60-12c59e43400d",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"394db1d2-218e-41cd-ba8f-d7808045fb5f\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"866450ad-5ba2-4ddd-bd4f-d7551da6de21\"}",
+        "delivery_tag": 86,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "866450ad-5ba2-4ddd-bd4f-d7551da6de21",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"156086d8-2edb-461f-8e92-ff1b2744c5f9\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"4dcf729f-2098-4f3c-93fa-2a5ad98760fb\"}",
+        "delivery_tag": 87,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "4dcf729f-2098-4f3c-93fa-2a5ad98760fb",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"de1e5cea-2c61-4f88-8071-b42edd3d25a1\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"11dfc836-33da-4e49-884d-15c054d298fe\"}",
+        "delivery_tag": 88,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "11dfc836-33da-4e49-884d-15c054d298fe",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"d66c7688-2a7f-4b54-8edd-38f831b1cf43\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"b7cdcbd0-ab78-4ecd-b8ea-5fca07251e8c\"}",
+        "delivery_tag": 89,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "b7cdcbd0-ab78-4ecd-b8ea-5fca07251e8c",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"377781cf-0ee8-4def-8276-c90adb04df3d\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"b7fe78c1-b69f-4b92-a48d-cafc61a8aeff\"}",
+        "delivery_tag": 90,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "b7fe78c1-b69f-4b92-a48d-cafc61a8aeff",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"b5d08530-c404-42ed-aa29-95171be64819\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"ed93802e-54f4-478d-b8b8-0d1064610342\"}",
+        "delivery_tag": 91,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "ed93802e-54f4-478d-b8b8-0d1064610342",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"cb539121-0ead-4c22-9131-149cf515cf94\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"d4718fc9-31fa-4ae9-b817-b6f9386a338c\"}",
+        "delivery_tag": 92,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "d4718fc9-31fa-4ae9-b817-b6f9386a338c",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"acd5eb18-d424-4c63-a60a-1982e62551c9\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"f642bd99-09bf-4429-be74-56622b468e58\"}",
+        "delivery_tag": 93,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "f642bd99-09bf-4429-be74-56622b468e58",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"c950bf6f-07ee-477f-824e-b3b6163bba40\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"8bc06c77-31ba-4587-a544-c35280fcc659\"}",
+        "delivery_tag": 94,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "8bc06c77-31ba-4587-a544-c35280fcc659",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"930f219b-e615-4af8-80af-52436a4e1d70\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"0d0577b7-c6e6-4e4f-be61-36deab6d7365\"}",
+        "delivery_tag": 95,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "0d0577b7-c6e6-4e4f-be61-36deab6d7365",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"7ce1f0ae-bf1a-4464-8ba8-9d4dc687a293\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"a62b0fc7-e62a-4211-8d8f-9ceb1396af9c\"}",
+        "delivery_tag": 96,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "a62b0fc7-e62a-4211-8d8f-9ceb1396af9c",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"439f94fd-97a3-45c1-aa26-68fbd7159bdd\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"b162a5fb-c9c0-4bb7-924a-5e1121ab25c5\"}",
+        "delivery_tag": 97,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "b162a5fb-c9c0-4bb7-924a-5e1121ab25c5",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"5367eda7-8f62-43a9-9a4f-8866fa3fa373\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"2918c5b9-2f45-41cd-9bd4-97c24d10070e\"}",
+        "delivery_tag": 98,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "2918c5b9-2f45-41cd-9bd4-97c24d10070e",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"451de3d9-f2a7-497a-8302-2b2bc8234ecc\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"eb9f4169-ae9b-468e-8d38-4c7d97b13aaf\"}",
+        "delivery_tag": 99,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "eb9f4169-ae9b-468e-8d38-4c7d97b13aaf",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"5dcbbd19-1ecd-4178-a4f3-4110840e41d5\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"c2454b1b-9cba-4052-81f3-29ff822035c4\"}",
+        "delivery_tag": 100,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "c2454b1b-9cba-4052-81f3-29ff822035c4",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"812c3660-f753-4fcb-a412-9d42868df457\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"b6fc093d-67f5-4cf6-a622-ce51d3e9cc1a\"}",
+        "delivery_tag": 101,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "b6fc093d-67f5-4cf6-a622-ce51d3e9cc1a",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"a4e57508-73ee-4387-a878-f150e9f7df5d\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:2;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"9aff3d46-c60e-4fa5-bb11-1a17b9bcc7f9\"}",
+        "delivery_tag": 102,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "9aff3d46-c60e-4fa5-bb11-1a17b9bcc7f9",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"433550c6-d1ae-4ec9-997e-db40f3cd6838\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"37edd570-4495-4366-8602-bec0c2528c94\"}",
+        "delivery_tag": 1,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "37edd570-4495-4366-8602-bec0c2528c94",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    },
+    {
+        "message_body": "{\"uuid\":\"526a1fb2-bbb7-4f96-85a0-7aa22457ba27\",\"displayName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"job\":\"Illuminate\\\\Queue\\\\CallQueuedHandler@call\",\"maxTries\":null,\"maxExceptions\":null,\"failOnTimeout\":false,\"backoff\":null,\"timeout\":null,\"retryUntil\":null,\"data\":{\"commandName\":\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\",\"command\":\"O:34:\\\"App\\\\Jobs\\\\RabbitSendTenantRucsQueue\\\":2:{s:3:\\\"ruc\\\";O:45:\\\"Illuminate\\\\Contracts\\\\Database\\\\ModelIdentifier\\\":5:{s:5:\\\"class\\\";s:14:\\\"App\\\\Models\\\\Ruc\\\";s:2:\\\"id\\\";i:1;s:9:\\\"relations\\\";a:0:{}s:10:\\\"connection\\\";s:5:\\\"pgsql\\\";s:15:\\\"collectionClass\\\";N;}s:5:\\\"queue\\\";s:10:\\\"ruc.queues\\\";}\"},\"id\":\"a3f6e224-9202-4672-a491-ee119e236d97\"}",
+        "delivery_tag": 2,
+        "exchange": "",
+        "routing_key": "ruc.queues",
+        "properties": {
+            "content_type": "application/json",
+            "content_encoding": null,
+            "headers": {
+                "laravel": {
+                    "attempts": 0
+                }
+            },
+            "delivery_mode": 2,
+            "priority": null,
+            "correlation_id": "a3f6e224-9202-4672-a491-ee119e236d97",
+            "reply_to": null,
+            "expiration": null,
+            "message_id": null,
+            "timestamp": null,
+            "type": null,
+            "user_id": null,
+            "app_id": null,
+            "cluster_id": null
+        }
+    }
+]
